@@ -11,7 +11,7 @@ class ApplicationTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         """Setup MongoDB client and test database."""
-        cls.client = MongoClient("localhost", 27017)
+        cls.client = MongoClient("mongo", 27017)
         cls.db = cls.client['json_db']
         cls.collection = cls.db['data']
         
