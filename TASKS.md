@@ -2,32 +2,32 @@
 Flask APIs to perform CRUD operations on MongoDB collections
 
 ## Objective
-- [ ] Develop an API that allows storing and retrieving JSON data without a predefined schema
-- [ ] The data should be persisted in a database
-- [ ] Your task is to design and implement this API, ensuring it handles basic CRUD operations efficiently and effectively
+- [x] Develop an API that allows storing and retrieving JSON data without a predefined schema
+- [x] The data should be persisted in a database
+- [x] Your task is to design and implement this API, ensuring it handles basic CRUD operations efficiently and effectively
 
 ## Requirements
 API Endpoints
-- [ ] POST /data: Accepts a JSON object and stores it in the database
-- [ ] GET /data/{id}: Retrieves the JSON object associated with the given ID from the database
-- [ ] PUT /data/{id}: Updates the existing JSON object with the given ID in the database
-- [ ] DELETE /data/{id}: Deletes the JSON object with the given ID from the database
+- [x] POST /data: Accepts a JSON object and stores it in the database
+- [x] GET /data/{id}: Retrieves the JSON object associated with the given ID from the database
+- [x] PUT /data/{id}: Updates the existing JSON object with the given ID in the database
+- [x] DELETE /data/{id}: Deletes the JSON object with the given ID from the database
 
 ## Data Persistence
-- [ ] Use a database to store the JSON objects
-- [ ] The data should be stored in a way that allows efficient querying and retrieval
-- [ ] No predefined schema is required, allowing for flexibility in the JSON objects stored
+- [x] Use a database to store the JSON objects
+- [x] The data should be stored in a way that allows efficient querying and retrieval
+- [x] No predefined schema is required, allowing for flexibility in the JSON objects stored
 
 ## Implementation Details
-- [ ] Use Python as the programming language
-- [ ] Ensure the API is well-documented, including endpoint descriptions and example requests/responses
-- [ ] Include error handling for cases like missing data, invalid JSON, and database connection issues
-- [ ] Only use open sources tools/frameworks/libraries
-- [ ] Assume Linux Ubuntu as OS if needed
-- [ ] You are free to make assumptions as long as they are documented separately
+- [x] Use Python as the programming language
+- [x] Ensure the API is well-documented, including endpoint descriptions and example requests/responses
+- [x] Include error handling for cases like missing data, invalid JSON, and database connection issues
+- [x] Only use open sources tools/frameworks/libraries
+- [x] Assume Linux Ubuntu as OS if needed
+- [x] You are free to make assumptions as long as they are documented separately
 
 ## Testing
-- [ ] Write unit tests for the API endpoints
+- [x] Write unit tests for the API endpoints
 
 ## Documentation
 - [ ] Provide a README file with instructions on how to set up and run the application
@@ -42,9 +42,9 @@ API Endpoints
 - [ ] Documentation: Clear and concise documentation for setup, usage, and API reference
 
 ## Bonus Points
-- [ ] Authentication: Implement basic authentication for the API
+- [x] Authentication: Implement basic authentication for the API
 - [ ] Provide a Dockerfile for containerizing the application and instructions for deploying it
-- [ ] Include tests for successful operations and edge cases
+- [x] Include tests for successful operations and edge cases
 
 ## Submission
 - [ ] Submit your code as a GitHub repository link and share the link
