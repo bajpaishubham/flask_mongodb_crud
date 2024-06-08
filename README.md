@@ -85,7 +85,7 @@ Route: /data/{id}
 Description: Updates the existing JSON object with the given ID in the database
 
 #### Example Request:
-Method: GET   
+Method: PUT   
 Route: /data/60c72b2f4f1a2c1a4c8b4567   
 Body:
 {
