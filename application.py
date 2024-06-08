@@ -13,7 +13,8 @@ try:
     # Create a MongoClient to the running mongod instance
     # If issues arise, check the status of the mongod process using: sudo systemctl status mongod
     # Start the mongod process if not running using: sudo systemctl start mongod
-    client = MongoClient("localhost", 27017)
+    # Docker
+    client = MongoClient("mongo", 27017)
     # Access the database
     db = client['json_db']
     # Access the collection
@@ -186,4 +187,4 @@ def delete_data(id):
         return jsonify({"error": str(e)}), 400
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
