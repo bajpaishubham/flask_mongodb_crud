@@ -30,25 +30,25 @@ API Endpoints
 - [x] Write unit tests for the API endpoints
 
 ## Documentation
-- [ ] Provide a README file with instructions on how to set up and run the application
+- [x] Provide a README file with instructions on how to set up and run the application
 - [ ] Include examples of how to interact with the API
 
 ## Evaluation Criteria
-- [ ] Functionality: The API should perform all the required operations correctly
-- [ ] Code Quality: Code should be clean, well-structured, and follow best practices
-- [ ] Error Handling: Proper error handling for various scenarios
-- [ ] Performance: Efficient data storage and retrieval from the database
-- [ ] Testing: Comprehensive unit tests covering different aspects of the API
+- [x] Functionality: The API should perform all the required operations correctly
+- [x] Code Quality: Code should be clean, well-structured, and follow best practices
+- [x] Error Handling: Proper error handling for various scenarios
+- [x] Performance: Efficient data storage and retrieval from the database
+- [x] Testing: Comprehensive unit tests covering different aspects of the API
 - [ ] Documentation: Clear and concise documentation for setup, usage, and API reference
 
 ## Bonus Points
 - [x] Authentication: Implement basic authentication for the API
-- [ ] Provide a Dockerfile for containerizing the application and instructions for deploying it
+- [x] Provide a Dockerfile for containerizing the application and instructions for deploying it
 - [x] Include tests for successful operations and edge cases
 
 ## Submission
 - [ ] Submit your code as a GitHub repository link and share the link
-- [ ] Repository should have a codebase and a video showing deployment and interaction with the API
+- [x] Repository should have a codebase and a video showing deployment and interaction with the API
 
 ## Timeline
 - [ ] Please submit your solution by the end of the day on 12th June 2024
