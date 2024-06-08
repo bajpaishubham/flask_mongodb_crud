@@ -131,4 +131,12 @@ Route: `/data/60c72b2f4f1a2c1a4c8b4567`
 ```
 
 ## E. File Descriptions:
-1. 
+1. `Demonstration.webm`: Demonstration video
+2. `demonstration_steps.txt`: Contains the steps followed during the demonstration and the JSON used
+3. `application.py`: Contains the main Flask application
+4. `testing.py`: Contains the unit test cases
+5. `Dockerfile`: Dockerfile for the main application
+6. `docker-compose.yml`: Contains the settings for this multi-container Docker application
+7. `requirements.txt`: Contains the python packages needed to be installed for running the application within the container
+8. `TASKS.md`: Contains the tasks for the assignment
+9. `README.md`: Contains the description of the whole project
