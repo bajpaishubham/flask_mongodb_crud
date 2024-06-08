@@ -34,6 +34,10 @@ Method: `GET`
 Route: `/`   
 Description: Provides welcome message on the default url
 
+#### Example Request:
+Method: `GET`   
+Route: `/`
+
 #### Example Response:
 ```
 {
