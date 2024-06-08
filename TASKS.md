@@ -47,8 +47,8 @@ API Endpoints
 - [x] Include tests for successful operations and edge cases
 
 ## Submission
-- [ ] Submit your code as a GitHub repository link and share the link
+- [x] Submit your code as a GitHub repository link and share the link
 - [x] Repository should have a codebase and a video showing deployment and interaction with the API
 
 ## Timeline
-- [ ] Please submit your solution by the end of the day on 12th June 2024
+- [x] Please submit your solution by the end of the day on 12th June 2024
