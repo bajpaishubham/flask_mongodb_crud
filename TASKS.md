@@ -31,7 +31,7 @@ API Endpoints
 
 ## Documentation
 - [x] Provide a README file with instructions on how to set up and run the application
-- [ ] Include examples of how to interact with the API
+- [x] Include examples of how to interact with the API
 
 ## Evaluation Criteria
 - [x] Functionality: The API should perform all the required operations correctly
@@ -39,7 +39,7 @@ API Endpoints
 - [x] Error Handling: Proper error handling for various scenarios
 - [x] Performance: Efficient data storage and retrieval from the database
 - [x] Testing: Comprehensive unit tests covering different aspects of the API
-- [ ] Documentation: Clear and concise documentation for setup, usage, and API reference
+- [x] Documentation: Clear and concise documentation for setup, usage, and API reference
 
 ## Bonus Points
 - [x] Authentication: Implement basic authentication for the API
